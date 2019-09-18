@@ -1,0 +1,16 @@
+﻿  score.cpp
+c:\users\10473\source\repos\project1\project1\score.cpp(85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10473\source\repos\project1\project1\score.cpp(136): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\10473\source\repos\project1\project1\score.cpp(141): error C2601: “variance”: 本地函数定义是非法的
+  c:\users\10473\source\repos\project1\project1\score.cpp(121): note: 此行有一个“{”没有匹配项
+c:\users\10473\source\repos\project1\project1\score.cpp(153): error C2065: “s”: 未声明的标识符
+c:\users\10473\source\repos\project1\project1\score.cpp(144): error C2059: 语法错误:“<”
+c:\users\10473\source\repos\project1\project1\score.cpp(144): error C2059: 语法错误:“)”
+c:\users\10473\source\repos\project1\project1\score.cpp(145): error C2275: “SS”: 将此类型用作表达式非法
+  c:\users\10473\source\repos\project1\project1\score.h(14): note: 参见“SS”的声明
+c:\users\10473\source\repos\project1\project1\score.cpp(145): error C2146: 语法错误: 缺少“)”(在标识符“stu”的前面)
+c:\users\10473\source\repos\project1\project1\score.cpp(147): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\10473\source\repos\project1\project1\score.cpp(147): error C2065: “all”: 未声明的标识符
+c:\users\10473\source\repos\project1\project1\score.cpp(147): error C2065: “N”: 未声明的标识符
+c:\users\10473\source\repos\project1\project1\score.cpp(148): error C2059: 语法错误:“}”
+c:\users\10473\source\repos\project1\project1\score.cpp(148): error C2143: 语法错误: 缺少“;”(在“}”的前面)
