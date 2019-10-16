@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\10473\source\repos\project4\project4\main.cpp(14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\10473\source\repos\project4\project4\main.cpp(15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project4.vcxproj -> C:\Users\10473\source\repos\Project4\Debug\Project4.exe
